@@ -1,1 +1,1 @@
-# ftp-service
+# com.example.ftp-service
